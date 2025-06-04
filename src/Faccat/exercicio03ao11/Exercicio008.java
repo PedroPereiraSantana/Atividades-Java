@@ -1,4 +1,4 @@
-package Faccat.exercicio3ao11;
+package Faccat.exercicio03ao11;
 import java.util.Scanner;
 
 public class Exercicio008 {
