@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="467f5f3b-ff76-405b-97eb-8451952a77ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaccatJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Faccat/exemplos/SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Faccat/exemplos/SwitchCaseTernario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Faccat/exemplos/While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Faccat/exercicio12ao13/Exercicio012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Faccat/exercicio12ao13/Exercicio013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Faccat/exercicio14ao26/Exercicio014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Faccat/exercicio14ao26/Exercicio015.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Faccat/exercicio14ao26/Exercicio016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Faccat/exercicio3ao11/Exercicio005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Faccat/exercicio3ao11/Exercicio006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Faccat/exercicio3ao11/Exercicio006_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Faccat/exercicio3ao11/Exercicio006_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Faccat/exercicio3ao11/Exercicio006_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Faccat/exercicio3ao11/Exercicio007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Faccat/exercicio3ao11/Exercicio008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Faccat/exercicio3ao11/Exercicio009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Faccat/exercicio3ao11/Exercicio010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Faccat/exercicio3ao11/Exercicio011.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="dad4b002-2d99-4e47-ab04-90fe88746081" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2xzIE4MlGTa5Hbc2CcbDjvvr20b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Exercicio006_2.executor": "Run",
+    "Application.Exercicio006_3.executor": "Run",
+    "Application.Exercicio006_4.executor": "Run",
+    "Application.Exercicio010.executor": "Run",
+    "Application.Exercicio011.executor": "Run",
+    "Application.Exercicio012.executor": "Run",
+    "Application.Exercicio013.executor": "Run",
+    "Application.Exercicio015.executor": "Run",
+    "Application.SwitchCaseTernario.executor": "Run",
+    "Application.While.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Pedro/Desktop/FaccatJava",
+    "onboarding.tips.debug.path": "C:/Users/Pedro/Desktop/FaccatJava/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="467f5f3b-ff76-405b-97eb-8451952a77ef" name="Changes" comment="" />
+      <created>1748934362363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748934362363</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
