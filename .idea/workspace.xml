@@ -4,19 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="467f5f3b-ff76-405b-97eb-8451952a77ef" name="Changes" comment="subindo alguns exercicios e alguns exemplos">
+    <list default="true" id="467f5f3b-ff76-405b-97eb-8451952a77ef" name="Changes" comment="subindo o exemplo de Array005">
+      <change afterPath="$PROJECT_DIR$/src/exemplos/Array006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exemplos/Array006_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exemplos/ArrayMatriz001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exemplos/ArrayMatriz002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exemplos/ArrayMatriz003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exemplos/Metodo001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exemplos/Metodo002.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Faccat/exemplos/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplos/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Faccat/exemplos/Array002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplos/Array002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Faccat/exemplos/Array003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplos/Array003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Faccat/exemplos/Array004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplos/Array004.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Faccat/exemplos/Break.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplos/Break.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Faccat/exemplos/Continue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplos/Continue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Faccat/exemplos/DoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplos/DoWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Faccat/exemplos/For.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplos/For.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Faccat/exemplos/SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplos/SwitchCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Faccat/exemplos/SwitchCaseTernario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplos/SwitchCaseTernario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Faccat/exemplos/While.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplos/While.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,45 +53,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array003.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array004.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Break.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Break2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DoWhile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio006_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio006_3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio006_4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio010.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio011.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio012.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio013.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio015.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio016.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio017.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio018.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio019.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio020.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio021.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicio022.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExercicioA.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExercicioB.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExercicioC.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExercicioD.executor&quot;: &quot;Run&quot;,
-    &quot;Application.For.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SwitchCaseTernario.executor&quot;: &quot;Run&quot;,
-    &quot;Application.While.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Pedro/Desktop/FaccatJava&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Pedro/Desktop/FaccatJava/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Array.executor": "Run",
+    "Application.Array002.executor": "Run",
+    "Application.Array003.executor": "Run",
+    "Application.Array004.executor": "Run",
+    "Application.Array005.executor": "Run",
+    "Application.Array006.executor": "Run",
+    "Application.Array006_2.executor": "Run",
+    "Application.ArrayMatriz001.executor": "Run",
+    "Application.ArrayMatriz002.executor": "Run",
+    "Application.ArrayMatriz003.executor": "Run",
+    "Application.Break.executor": "Run",
+    "Application.Break2.executor": "Run",
+    "Application.DoWhile.executor": "Run",
+    "Application.Exercicio006_2.executor": "Run",
+    "Application.Exercicio006_3.executor": "Run",
+    "Application.Exercicio006_4.executor": "Run",
+    "Application.Exercicio010.executor": "Run",
+    "Application.Exercicio011.executor": "Run",
+    "Application.Exercicio012.executor": "Run",
+    "Application.Exercicio013.executor": "Run",
+    "Application.Exercicio015.executor": "Run",
+    "Application.Exercicio016.executor": "Run",
+    "Application.Exercicio017.executor": "Run",
+    "Application.Exercicio018.executor": "Run",
+    "Application.Exercicio019.executor": "Run",
+    "Application.Exercicio020.executor": "Run",
+    "Application.Exercicio021.executor": "Run",
+    "Application.Exercicio022.executor": "Run",
+    "Application.ExercicioA.executor": "Run",
+    "Application.ExercicioB.executor": "Run",
+    "Application.ExercicioC.executor": "Run",
+    "Application.ExercicioD.executor": "Run",
+    "Application.For.executor": "Run",
+    "Application.Metodo001.executor": "Run",
+    "Application.Metodo002.executor": "Run",
+    "Application.SwitchCaseTernario.executor": "Run",
+    "Application.While.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Pedro/Desktop/FaccatJava",
+    "onboarding.tips.debug.path": "C:/Users/Pedro/Desktop/FaccatJava/src/Main.java",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -153,7 +158,31 @@
       <option name="project" value="LOCAL" />
       <updated>1749244170351</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="refactor: movendo a pasta de exemplos direto para o SRC">
+      <option name="closed" value="true" />
+      <created>1749490243091</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1749490243091</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fazendo o exemplo.Array002">
+      <option name="closed" value="true" />
+      <created>1749492065652</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1749492065652</updated>
+    </task>
+    <task id="LOCAL-00009" summary="subindo o exemplo de Array005">
+      <option name="closed" value="true" />
+      <created>1749492749010</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1749492749010</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,6 +203,9 @@
     <MESSAGE value="arrumando o nome da pasta" />
     <MESSAGE value="subindo os exercicios do 21 ao 24" />
     <MESSAGE value="subindo alguns exercicios e alguns exemplos" />
-    <option name="LAST_COMMIT_MESSAGE" value="subindo alguns exercicios e alguns exemplos" />
+    <MESSAGE value="refactor: movendo a pasta de exemplos direto para o SRC" />
+    <MESSAGE value="fazendo o exemplo.Array002" />
+    <MESSAGE value="subindo o exemplo de Array005" />
+    <option name="LAST_COMMIT_MESSAGE" value="subindo o exemplo de Array005" />
   </component>
 </project>
