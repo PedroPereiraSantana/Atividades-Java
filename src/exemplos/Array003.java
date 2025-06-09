@@ -1,4 +1,4 @@
-package Faccat.exemplos;
+package exemplos;
 
 public class Array003 {
     public static void main(String[] args) {

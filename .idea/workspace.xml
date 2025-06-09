@@ -4,13 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="467f5f3b-ff76-405b-97eb-8451952a77ef" name="Changes" comment="subindo o exercicio da pagina 25 A da Manzano">
-      <change afterPath="$PROJECT_DIR$/src/Faccat/exercicio14ao26/Exercicio017.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Faccat/exercicio14ao26/Exercicio018.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Faccat/exercicio14ao26/Exercicio019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Faccat/exercicio14ao26/Exercicio020.java" afterDir="false" />
+    <list default="true" id="467f5f3b-ff76-405b-97eb-8451952a77ef" name="Changes" comment="subindo alguns exercicios e alguns exemplos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Manzano/pagina25doAaoM/ExercicioA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Manzano/pagina25doAaoM/ExercicioA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Faccat/exemplos/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplos/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Faccat/exemplos/Array002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplos/Array002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Faccat/exemplos/Array003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplos/Array003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Faccat/exemplos/Array004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplos/Array004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Faccat/exemplos/Break.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplos/Break.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Faccat/exemplos/Continue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplos/Continue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Faccat/exemplos/DoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplos/DoWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Faccat/exemplos/For.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplos/For.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Faccat/exemplos/SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplos/SwitchCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Faccat/exemplos/SwitchCaseTernario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplos/SwitchCaseTernario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Faccat/exemplos/While.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exemplos/While.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,21 +33,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "PedroPereiraSantana"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PedroPereiraSantana&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="dad4b002-2d99-4e47-ab04-90fe88746081" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/PedroPereiraSantana/Faccat-Manzano-Java",
-    "accountId": "dad4b002-2d99-4e47-ab04-90fe88746081"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PedroPereiraSantana/Faccat-Manzano-Java&quot;,
+    &quot;accountId&quot;: &quot;dad4b002-2d99-4e47-ab04-90fe88746081&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -51,32 +57,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Exercicio006_2.executor": "Run",
-    "Application.Exercicio006_3.executor": "Run",
-    "Application.Exercicio006_4.executor": "Run",
-    "Application.Exercicio010.executor": "Run",
-    "Application.Exercicio011.executor": "Run",
-    "Application.Exercicio012.executor": "Run",
-    "Application.Exercicio013.executor": "Run",
-    "Application.Exercicio015.executor": "Run",
-    "Application.Exercicio016.executor": "Run",
-    "Application.Exercicio017.executor": "Run",
-    "Application.Exercicio018.executor": "Run",
-    "Application.Exercicio019.executor": "Run",
-    "Application.Exercicio020.executor": "Run",
-    "Application.SwitchCaseTernario.executor": "Run",
-    "Application.While.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Pedro/Desktop/FaccatJava",
-    "onboarding.tips.debug.path": "C:/Users/Pedro/Desktop/FaccatJava/src/Main.java",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array003.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array004.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Break.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Break2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio006_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio006_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio006_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio010.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio011.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio012.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio013.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio015.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio016.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio017.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio018.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio019.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio020.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio021.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio022.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExercicioA.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExercicioB.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExercicioC.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExercicioD.executor&quot;: &quot;Run&quot;,
+    &quot;Application.For.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwitchCaseTernario.executor&quot;: &quot;Run&quot;,
+    &quot;Application.While.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Pedro/Desktop/FaccatJava&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Pedro/Desktop/FaccatJava/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -102,7 +121,39 @@
       <option name="project" value="LOCAL" />
       <updated>1749066760689</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="subindo os exercicios do 17 ao 20 da Faccat">
+      <option name="closed" value="true" />
+      <created>1749068762320</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749068762320</updated>
+    </task>
+    <task id="LOCAL-00004" summary="arrumando o nome da pasta">
+      <option name="closed" value="true" />
+      <created>1749071099418</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1749071099418</updated>
+    </task>
+    <task id="LOCAL-00005" summary="subindo os exercicios do 21 ao 24">
+      <option name="closed" value="true" />
+      <created>1749135469658</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749135469658</updated>
+    </task>
+    <task id="LOCAL-00006" summary="subindo alguns exercicios e alguns exemplos">
+      <option name="closed" value="true" />
+      <created>1749244170351</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1749244170351</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,6 +170,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="subindo o exercicio 16" />
     <MESSAGE value="subindo o exercicio da pagina 25 A da Manzano" />
-    <option name="LAST_COMMIT_MESSAGE" value="subindo o exercicio da pagina 25 A da Manzano" />
+    <MESSAGE value="subindo os exercicios do 17 ao 20 da Faccat" />
+    <MESSAGE value="arrumando o nome da pasta" />
+    <MESSAGE value="subindo os exercicios do 21 ao 24" />
+    <MESSAGE value="subindo alguns exercicios e alguns exemplos" />
+    <option name="LAST_COMMIT_MESSAGE" value="subindo alguns exercicios e alguns exemplos" />
   </component>
 </project>

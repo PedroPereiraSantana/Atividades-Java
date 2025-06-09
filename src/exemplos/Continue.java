@@ -1,4 +1,4 @@
-package Faccat.exemplos;
+package exemplos;
 
 public class Continue {
     public static void main(String[] args) {

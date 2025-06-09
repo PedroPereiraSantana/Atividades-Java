@@ -1,4 +1,4 @@
-package Faccat.exemplos;
+package exemplos;
 import java.util.Scanner;
 
 public class SwitchCase {
