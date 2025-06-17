@@ -1,4 +1,4 @@
-package exemplos;
+package Arrays;
 
 //*
 //é um calculo de média de idade, onde tem um array que

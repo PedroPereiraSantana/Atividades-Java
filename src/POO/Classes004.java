@@ -1,4 +1,4 @@
-package exemplos;
+package POO;
 
 public class Classes004 {
     String dono; // o this referencia essa variavel

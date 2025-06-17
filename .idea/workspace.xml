@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="467f5f3b-ff76-405b-97eb-8451952a77ef" name="Changes" comment="subindo o exemplo de Array005">
-      <change afterPath="$PROJECT_DIR$/src/exemplos/Array006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exemplos/Array006_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exemplos/ArrayMatriz001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exemplos/ArrayMatriz002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exemplos/ArrayMatriz003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exemplos/Metodo001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exemplos/Metodo002.java" afterDir="false" />
+    <list default="true" id="467f5f3b-ff76-405b-97eb-8451952a77ef" name="Changes" comment="subindo as aulas de classe">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +60,10 @@
     "Application.ArrayMatriz003.executor": "Run",
     "Application.Break.executor": "Run",
     "Application.Break2.executor": "Run",
+    "Application.Classes001.executor": "Run",
+    "Application.Classes002.executor": "Run",
+    "Application.Classes003.executor": "Run",
+    "Application.Classes004.executor": "Run",
     "Application.DoWhile.executor": "Run",
     "Application.Exercicio006_2.executor": "Run",
     "Application.Exercicio006_3.executor": "Run",
@@ -90,6 +87,14 @@
     "Application.For.executor": "Run",
     "Application.Metodo001.executor": "Run",
     "Application.Metodo002.executor": "Run",
+    "Application.Metodo003.executor": "Run",
+    "Application.Metodo004.executor": "Run",
+    "Application.Metodo005.executor": "Run",
+    "Application.Metodo006.executor": "Run",
+    "Application.Metodo007.executor": "Run",
+    "Application.Metodo008.executor": "Run",
+    "Application.Metodo009.executor": "Run",
+    "Application.Metodo010.executor": "Run",
     "Application.SwitchCaseTernario.executor": "Run",
     "Application.While.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -182,7 +187,31 @@
       <option name="project" value="LOCAL" />
       <updated>1749492749010</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="subindo alguns exemplos">
+      <option name="closed" value="true" />
+      <created>1749502303475</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1749502303475</updated>
+    </task>
+    <task id="LOCAL-00011" summary="subindo os exercicios das aulas de metodos">
+      <option name="closed" value="true" />
+      <created>1750094048148</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1750094048148</updated>
+    </task>
+    <task id="LOCAL-00012" summary="subindo as aulas de classe">
+      <option name="closed" value="true" />
+      <created>1750104081591</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1750104081591</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,6 +235,9 @@
     <MESSAGE value="refactor: movendo a pasta de exemplos direto para o SRC" />
     <MESSAGE value="fazendo o exemplo.Array002" />
     <MESSAGE value="subindo o exemplo de Array005" />
-    <option name="LAST_COMMIT_MESSAGE" value="subindo o exemplo de Array005" />
+    <MESSAGE value="subindo alguns exemplos" />
+    <MESSAGE value="subindo os exercicios das aulas de metodos" />
+    <MESSAGE value="subindo as aulas de classe" />
+    <option name="LAST_COMMIT_MESSAGE" value="subindo as aulas de classe" />
   </component>
 </project>

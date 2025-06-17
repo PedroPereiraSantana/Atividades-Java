@@ -1,4 +1,4 @@
-package exemplos;
+package POO;
 
 public class Metodo007 {
     static float calcularSoma(int x, float y){

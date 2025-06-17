@@ -1,4 +1,4 @@
-package exemplos;
+package POO;
 
 public class Classes002 {
     String primeiroNome = "";

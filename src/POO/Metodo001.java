@@ -1,4 +1,4 @@
-package exemplos;
+package POO;
 
 /*
 quando você não coloca nada antes da declaração do metodo ele vai ser public automaticamente

@@ -1,4 +1,4 @@
-package exemplos;
+package Arrays;
 
 /*
 * esse código está passando em cada linha, quando está dentro daquela linha ele entra em outro laço que seria todas as colunas daquela linha

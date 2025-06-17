@@ -1,4 +1,4 @@
-package exemplos;
+package POO;
 
 public class Metodo006 {
 

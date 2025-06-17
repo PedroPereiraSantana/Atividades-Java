@@ -1,4 +1,4 @@
-package exemplos;
+package Arrays;
 
 //*
 // esse código está pegando um array de idade que está com um laço de repetição para pegar o menor numero do array, com um if ternario ele checka se o numero

@@ -1,4 +1,4 @@
-package exemplos;
+package POO;
 
 public class Metodo005 {
     static void metodo(int idade) {
