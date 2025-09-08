@@ -20,6 +20,7 @@ public class Exercicio026 {
             System.out.println("Efetuar compra");
         } else{
             System.out.println("Não efetuar a compra");
+
         }
     }
 }
